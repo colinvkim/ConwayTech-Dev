@@ -41,7 +41,7 @@
 
 - **[Blackbaud Next](https://github.com/colinvkim/Blackbaud-Next)** — Chrome extension that makes Blackbaud LMS more usable
 - **[Polygraph](https://polygraph.colinkim.dev/)** — Modern Brawl Stars stats lookup tool
-- **[tabula rasa](https://polygraph.colinkim.dev/)** — Fast, distraction-free online notepad for jotting down quick thoughts
+- **[tabula rasa](https://github.com/colinvkim/tabula-rasa)** — Fast, distraction-free online notepad for jotting down quick thoughts
 
 ***
 
